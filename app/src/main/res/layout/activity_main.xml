@@ -139,6 +139,7 @@
         app:layout_constraintDimensionRatio="2:3"
         android:id="@+id/ratioDsgn"/>
     <LinearLayout
+
         android:id="@+id/dsgn"
         android:layout_width="200dp"
         android:layout_height="300dp"
